@@ -9,3 +9,5 @@ LightNet VPN是一個多級代理，動態加密的安全代理VPN
 3. 專用的網絡線路和加密方式, 使用網絡更加安全
 4. 您可以通過軟件代理銷售並賺取佣金
 5. LightNet提供3天免費試用
+
+下載: https://www.lightnet.ml/public/dl.html
