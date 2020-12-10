@@ -7,3 +7,5 @@ LightNet VPN is a multi-level proxy, dynamically encrypted secure proxy VPN
 3. Dedicated network line and encryption method, using the network is more secure
 4. You can sell through software agents and earn commissions
 5. LightNet offers a 3-day free trial
+
+download: https://www.lightnet.ml/public/dl.html
