@@ -6,9 +6,9 @@ LightNet VPN - 是一個多級代理的高安全 VPN
  
 [Windows(Windows電腦)](https://www.lightnet.ml/app/LightNet-release-lastest.exe "Windows版本下載")
 
-MacOS(蘋果電腦)
+[MacOS(蘋果電腦)](https://www.lightnet.ml/app/LightNet-release-lastest.dmg "MacOS版本下載")
 
-Android(Android手機)
+[Android(Android手機)](https://www.lightnet.ml/app/LightNet-release-lastest.apk "Android版本下載")
 
 LightNet VPN採用多層級(1-4台)隨機服務轉發, 有些像洋蔥瀏覽器, 保證了源頭ip的不可追溯性, 但是最終的ip是固定的(中轉是動態的), 這樣保證了服務的穩定性, 不會被目標網站判斷為異常連接
 採用多路復發的技術架構, 好處是不會因為某個中繼ip被gwf牆了之後,造成網絡不可使用, 就算某個ip被牆了, 他會自動實時的使用沒有被牆的ip連接過去
