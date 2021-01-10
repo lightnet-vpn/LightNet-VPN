@@ -3,7 +3,8 @@
 
 LightNet VPN - 是一個多級代理的高安全 VPN
 
-Windows(Windows電腦)
+ 
+[Windows(Windows電腦)](https://www.lightnet.ml/app/LightNet-release-lastest.exe "Windows版本下載")
 
 MacOS(蘋果電腦)
 
